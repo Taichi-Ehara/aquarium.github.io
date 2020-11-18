@@ -20,7 +20,7 @@ $(function() {
     }
   });
 
-  $('header a').click(function() {
+  $('header a, footer a').click(function() {
     var id = $(this).attr('href');
     var position = $(id).offset().top;
 
