@@ -122,7 +122,7 @@ ul {
 }
 
 header {
-  height: 100vh;
+  height: 812px;
   width: 100%;
   position: relative;
 }
@@ -619,7 +619,7 @@ footer .logo {
     width: 100%
   }
   #background img {
-    height: 140vh;
+    height: 812px;
     width: 100%;
     object-fit: cover;
     position: absolute;
