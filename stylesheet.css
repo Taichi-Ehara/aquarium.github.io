@@ -122,7 +122,7 @@ ul {
 }
 
 header {
-  height: 812px;
+  height: 100vh;
   width: 100%;
   position: relative;
 }
